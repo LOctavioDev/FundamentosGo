@@ -28,4 +28,6 @@ func main() {
 
 	fmt.Println(os, domain)
 	fmt.Println(Jan, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dec)
+
+	// UNA DIFERENCIA MAS ES QUE EN GO LAS CONSTANTES NO NECESITAN SER UTIIZADAS EN SU TOTALIDAD A DIFERENCIA DE LAS VARIABLES
 }
