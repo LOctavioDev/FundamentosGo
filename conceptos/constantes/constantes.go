@@ -4,7 +4,6 @@ import "fmt"
 
 // LAS CONSTANTES QUE DECLARES FUERA DE LA FUNCION MAIN SE LES DIRA 'constantes a nivel de paquete' Y ASI COMO DICE EL NOMBRES PODRAS ACCEDER A ELLAS A NIVEL DE PAQUETE.
 
-
 const (
 	Jan = iota + 1 // ? 'iota' ES EL IDENTIFICADOR QUE SE UTILIZA EN 'const' PARA SIMPLIFICAR LAS DEFINICIONES DE NUMEROS CRECIENTES.
 	Feb
@@ -18,7 +17,6 @@ const (
 	Oct
 	Nov
 	Dec
-
 )
 
 func main() {
