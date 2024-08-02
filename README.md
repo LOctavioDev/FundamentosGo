@@ -6,7 +6,7 @@
 
 ## 📘 Mi Viaje de Aprendizaje en Go
 
-¡Bienvenido a mi repositorio de aprendizaje de Go! Aquí documentaré mi progreso mientras exploro las maravillas de este lenguaje de programación potente y eficiente.
+Bienvenido a mi repositorio de aprendizaje de Go! Aquí documentaré mi progreso mientras estudio de este lenguaje de programación potente y eficiente.
 
 ## 📚 Temas de Estudio
 
@@ -70,9 +70,7 @@
 
 ## 🛠️ Proyectos
 
-1. **Proyecto 1**: [Descripción breve] - 🔜 Pendiente
-2. **Proyecto 2**: [Descripción breve] - 🔜 Pendiente
-3. ...
+1. **Proyecto 1**: [Aplicación de terminal con filtros] - 🔜 Pendiente
 
 ## 📖 Recursos
 
@@ -92,5 +90,5 @@ Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 ---
 
 <div align="center">
-  <strong>Happy coding! 🐹</strong>
+  <strong>Puro Golang 🐹</strong>
 </div>
