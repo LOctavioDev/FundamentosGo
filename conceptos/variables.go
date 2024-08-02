@@ -49,8 +49,10 @@ func main() {
 
 	// * GO A PESAR DE QUE ES UN LENGUAJE ESTATICO, TIENE CIERTAS CARACTERISTICAS DE LENGUAJES DINAMICOS. EN ESTE CASO TENEMOS POR EJEMPLO EL OPERADOR SE 'asignacion de variable corta' o sea ' =: ' Y CON ESTE OPERADOR HACE QUE NO NECESITEMOS USAR LA PALABRA RESERVADA 'var' NI EL TIPO DE DATO COMP 'string' 
 
-	orange = "🍊"
+	coconut, mango, cucumber := "🥥", "🥭", "🥒"
 
-	fmt.Println(orange)
+	// ! coconut = 1  --- NO SE PUEDE CAMBIAR EL TIPO DE DATO DURANTE EL PROGRAMA 
+
+	fmt.Println(coconut, mango, cucumber)
 
 }
