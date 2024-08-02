@@ -1,0 +1,31 @@
+package main
+
+import "fmt"
+
+// LAS CONSTANTES QUE DECLARES FUERA DE LA FUNCION MAIN SE LES DIRA 'constantes a nivel de paquete' Y ASI COMO DICE EL NOMBRES PODRAS ACCEDER A ELLAS A NIVEL DE PAQUETE.
+
+
+const (
+	Jan = iota + 1 // ? 'iota' ES EL IDENTIFICADOR QUE SE UTILIZA EN 'const' PARA SIMPLIFICAR LAS DEFINICIONES DE NUMEROS CRECIENTES.
+	Feb
+	Mar
+	Abr
+	May
+	Jun
+	Jul
+	Ago
+	Sep
+	Oct
+	Nov
+	Dec
+
+)
+
+func main() {
+	// PARA DECLARAR CONSTANTES EN GO SE UTILIZA LA PALABRA RESERVADA 'const', Y POSTERIORMENTE ASIGANRLE UN NOMBRE. LA DIFERENCIA CON LA DECLARACION DE VARIABLES ES QUE ACA ES OBLIGATORIO ASIGNARLE UN VALOR CUANDO SE DECLARA
+
+	const os, domain = "linux", "google.com"
+
+	fmt.Println(os, domain)
+	fmt.Println(Jan, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dec)
+}
