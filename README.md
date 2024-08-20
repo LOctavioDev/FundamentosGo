@@ -59,14 +59,6 @@ Bienvenido a mi repositorio de aprendizaje de Go! Aquí documentaré mi progreso
 - [ ] Desarrollar proyectos prácticos
 - [ ] Explorar las características únicas de Go, como goroutines y channels
 
-## 📈 Progreso
-
-| Tema                   | Estado         |
-| ---------------------- | -------------- |
-| Variables y Constantes | 🏗️ En progreso |
-| Tipos de Datos         | 🔜 Pendiente   |
-| Funciones              | 🔜 Pendiente   |
-| ...                    | ...            |
 
 ## 🛠️ Proyectos
 
@@ -81,11 +73,7 @@ Bienvenido a mi repositorio de aprendizaje de Go! Aquí documentaré mi progreso
 
 ## 🤝 Contribuciones
 
-¡Las sugerencias y contribuciones son bienvenidas! Si tienes alguna idea para mejorar este repositorio, no dudes en abrir un issue o enviar un pull request.
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+Las sugerencias y contribuciones son bienvenidas! Si tienes alguna idea para mejorar este repositorio, no dudes en abrir un issue o enviar un pull request.
 
 ---
 
